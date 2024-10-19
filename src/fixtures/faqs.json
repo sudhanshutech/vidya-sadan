@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "header": "What will be the school timings ?",
+        "body": "The school timings will be from 8:00 AM to 2:00 PM."
+    },
+    {
+        "id": 2,
+        "header": "How and when do I apply for admission ?",
+        "body": "You can apply for admission in both ways online by filling the form available on the website or you can apply offline by comming at our office. The last date for applying is 31th August 2022."
+    },
+    {
+        "id": 3,
+        "header": "What is the fees of school ?",
+        "body": "The fees of school is different for each class please contact us to get more information on fees structure."
+    },
+    {
+        "id": 4,
+        "header": "How many students will be there per division ?",
+        "body": "There will be 30 students per division."
+    },
+    {
+        "id": 5,
+        "header": "Where can I drop off my child ?",
+        "body": "All doors to the building are locked during school hours. Students dropped off before 8:00 a.m. can enter through the main entrance. If your child is going to be arriving late, they will need to contact in the office to gain entry."
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "original": "./images/pictures/gallery/1.jpeg",
+        "thumbnail": "./images/pictures/gallery/1.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 2,
+        "original": "./images/pictures/gallery/2.jpeg",
+        "thumbnail": "./images/pictures/gallery/2.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 3,
+        "original": "./images/pictures/gallery/3.jpeg",
+        "thumbnail": "./images/pictures/gallery/3.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 4,
+        "original": "./images/pictures/gallery/4.jpeg",
+        "thumbnail": "./images/pictures/gallery/4.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 5,
+        "original": "./images/pictures/gallery/5.jpeg",
+        "thumbnail": "./images/pictures/gallery/5.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 6,
+        "original": "./images/pictures/gallery/6.jpeg",
+        "thumbnail": "./images/pictures/gallery/6.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 7,
+        "original": "./images/pictures/gallery/7.jpeg",
+        "thumbnail": "./images/pictures/gallery/7.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 8,
+        "original": "./images/pictures/gallery/8.jpeg",
+        "thumbnail": "./images/pictures/gallery/8.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 9,
+        "original": "./images/pictures/gallery/9.jpeg",
+        "thumbnail": "./images/pictures/gallery/9.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 10,
+        "original": "./images/pictures/gallery/10.jpeg",
+        "thumbnail": "./images/pictures/gallery/10.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 11,
+        "original": "./images/pictures/gallery/11.jpeg",
+        "thumbnail": "./images/pictures/gallery/11.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 12,
+        "original": "./images/pictures/gallery/12.jpeg",
+        "thumbnail": "./images/pictures/gallery/12.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 13,
+        "original": "./images/pictures/gallery/13.jpeg",
+        "thumbnail": "./images/pictures/gallery/13.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 14,
+        "original": "./images/pictures/gallery/14.jpeg",
+        "thumbnail": "./images/pictures/gallery/14.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 15,
+        "original": "./images/pictures/gallery/15.jpeg",
+        "thumbnail": "./images/pictures/gallery/15.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 16,
+        "original": "./images/pictures/gallery/16.jpeg",
+        "thumbnail": "./images/pictures/gallery/16.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 17,
+        "original": "./images/pictures/gallery/17.jpeg",
+        "thumbnail": "./images/pictures/gallery/17.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 18,
+        "original": "./images/pictures/gallery/18.jpeg",
+        "thumbnail": "./images/pictures/gallery/18.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 19,
+        "original": "./images/pictures/gallery/19.jpeg",
+        "thumbnail": "./images/pictures/gallery/19.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 20,
+        "original": "./images/pictures/gallery/20.jpeg",
+        "thumbnail": "./images/pictures/gallery/20.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 21,
+        "original": "./images/pictures/gallery/21.jpeg",
+        "thumbnail": "./images/pictures/gallery/21.jpeg",
+        "loading": "lazy"
+    },
+    {
+        "id": 22,
+        "original": "./images/pictures/gallery/22.jpeg",
+        "thumbnail": "./images/pictures/gallery/22.jpeg",
+        "loading": "lazy"
+    }
+]
